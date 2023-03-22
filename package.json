@@ -1,0 +1,19 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "My react app.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactDeveloper12/ReactApp.git"
+  },
+  "author": "Krishna Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReactDeveloper12/ReactApp/issues"
+  },
+  "homepage": "https://github.com/ReactDeveloper12/ReactApp#readme"
+}
